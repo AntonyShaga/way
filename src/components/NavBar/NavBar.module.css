@@ -1,0 +1,19 @@
+.nav {
+    grid-area: n;
+    background-color: aquamarine;
+}
+.item {
+    color: white;
+}
+a {
+    color: inherit;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+.item__active {
+    color: chocolate;
+}

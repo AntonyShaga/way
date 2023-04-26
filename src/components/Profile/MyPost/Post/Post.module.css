@@ -1,0 +1,15 @@
+
+.item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: blue;
+    cursor: pointer;
+}
+.item__img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+    cursor:pointer;
+}
